@@ -4,7 +4,7 @@
     "version": "0.0.0",
     "license": "MIT",
     "author": "Rodrigo Bondoc",
-    "description": "",
+    "description": "A TypeScript-focused package to help create fully-typed, async-capable Express controllers.",
     "homepage": "https://github.com/pxeeio/express-async-controller",
     "bugs": "https://github.com/pxeeio/express-async-controller/issues",
     "repository": {
