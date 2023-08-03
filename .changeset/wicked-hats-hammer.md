@@ -1,5 +1,5 @@
 ---
-"@pxeeio/express-async-controller": patch
+"@pxeeio/express-async-controller": minor
 ---
 
 Update `package.json` description
