@@ -1,7 +1,7 @@
 {
     "name": "@pxeeio/express-async-controller",
     "type": "module",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "license": "MIT",
     "author": "Rodrigo Bondoc",
     "description": "A TypeScript-focused package to help create fully-typed, async-capable Express controllers.",
