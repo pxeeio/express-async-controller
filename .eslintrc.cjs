@@ -159,6 +159,12 @@ module.exports = defineConfig({
                 '@typescript-eslint/triple-slash-reference': 'off',
             },
         },
+        {
+            files: ['*.test.ts'],
+            rules: {
+                '@typescript-eslint/ban-ts-comment': 'off',
+            },
+        },
     ],
     reportUnusedDisableDirectives: true,
 });
