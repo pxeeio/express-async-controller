@@ -7,6 +7,7 @@ export default defineConfig({
     format: ['cjs', 'esm'],
     minify: true,
     splitting: false,
+    tsconfig: 'tsconfig.json',
     esbuildOptions(options, _context) {
         options.outbase = './src/';
     },
