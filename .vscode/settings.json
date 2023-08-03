@@ -1,0 +1,16 @@
+{
+    "editor.tabSize": 2,
+    "editor.indentSize": "tabSize",
+    "[json]": {
+      "editor.tabSize": 4,
+      "editor.indentSize": "tabSize"
+    },
+    "[markdown]": {
+      "editor.tabSize": 4,
+      "editor.indentSize": "tabSize"
+    },
+    "[typescript]": {
+        "editor.tabSize": 4,
+        "editor.indentSize": "tabSize"
+    }
+}
