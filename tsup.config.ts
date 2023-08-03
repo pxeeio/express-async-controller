@@ -5,6 +5,7 @@ export default defineConfig({
     dts: true,
     entry: ['src/index.ts'],
     format: ['cjs', 'esm'],
+    minify: true,
     splitting: false,
     esbuildOptions(options, _context) {
         options.outbase = './src/';
