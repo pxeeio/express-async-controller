@@ -1,0 +1,13 @@
+.changeset
+.github
+.vscode
+__tests__
+src
+
+.eslintignore
+.eslintrc.cjs
+pnpm-lock.yaml
+tsconfig.json
+tsconfig.base.json
+tsconfig.test.json
+tsup.config.ts
